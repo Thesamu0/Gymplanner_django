@@ -89,6 +89,7 @@ DATABASES = {
         'PASSWORD': '1234',
         'HOST': 'localhost',
         'PORT': '5432',
+        #TO DO: put this in gitignore
     }
 }
 
